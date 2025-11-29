@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # User Management System
 
 A full-stack User Management System built with MERN stack (MongoDB, Express.js, React.js, Node.js) featuring JWT authentication, CRUD operations, and an admin dashboard.
@@ -278,3 +279,6 @@ Developed for Harvey Designs Full Stack Developer Assessment
 
 - Repository: https://github.com/balawpugazh11/Harvee-project
 
+=======
+# harvee-recruitment-app
+>>>>>>> 005e926c072af5ee730ef9895d79bf5fda2ad4f3
